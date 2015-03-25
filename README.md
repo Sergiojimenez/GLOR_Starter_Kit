@@ -6,6 +6,7 @@ Type:
 
 `$ npm install`  
 `$ bower install`  
+`$ grunt`  (if you want to compile the sass file before starting project. Recomended)
 `$ node server` or `$ npm start`  
 
 `http://localhost:3000` 
